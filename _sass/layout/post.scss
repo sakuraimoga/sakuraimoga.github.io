@@ -31,13 +31,11 @@
   }
 }
 
-.post-content {
-  .preview-img {
-    @include align-center;
-
-    margin-top: 0;
-    margin-bottom: 2.5rem !important;
-  }
+.preview-img[data-src] {
+  margin-top: 2.75rem;
+  margin-bottom: 0;
+  border-radius: 6px;
+  min-width: 100%;
 }
 
 .post-tail-wrapper {
