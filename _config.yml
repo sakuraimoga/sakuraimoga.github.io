@@ -31,7 +31,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://sakuraimoga.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: sakuraimoga             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
